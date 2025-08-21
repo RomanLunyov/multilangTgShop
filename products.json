@@ -1,0 +1,29 @@
+{
+  "1": {
+    "name": "Бот магазин",
+    "desc": "Бот для продажи цифровых товаров",
+    "price": 79,
+    "currency": "RUB",
+    "content": "Vbnnjhh567",
+    "pay_url": "Payment.com",
+    "category": "Боты"
+  },
+  "2": {
+    "name": "ИИ бот",
+    "desc": "Бот с ИИ",
+    "price": 59,
+    "currency": "RUB",
+    "content": "Fyihf567",
+    "pay_url": "Paypal",
+    "category": "Боты"
+  },
+  "3": {
+    "name": "Testing bot",
+    "desc": "Bot is easy",
+    "price": 5,
+    "currency": "USD",
+    "content": "Cvnvdv345",
+    "pay_url": "Paypal",
+    "category": "Боты"
+  }
+}
